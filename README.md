@@ -16,11 +16,11 @@ This project was developed with:
 
 ## 💻 Projeto
 
-Accessibility is making your webpage easy for all people to use – even people with disabilities.
+Accessibility is making your webpage easy for all people to use, even people with disabilities.
 
 ---
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/tribute_page)
+- [access the finished project, online](https://rodrigocccesar.github.io/tribute_page)
 
